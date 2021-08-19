@@ -1,0 +1,160 @@
+.navigation{
+  overflow: hidden;
+  background-color:#BFD8D2;
+  margin: center;
+}
+
+.navigation a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  margin: center;
+
+}
+
+ul li a:hover {
+  background-color: #89AEB2   ;
+  color: black;
+  margin: center;
+}
+
+ul li{
+  list-style: none;
+  margin-left:center;
+}
+
+ul li a {
+  position: relative;
+}
+
+ul li.active a {
+  background-color:#BFD8D2;;
+  color: white;
+  margin: auto;
+}
+
+.headerpic{
+
+  width: 50%;
+  height: 50%;
+}
+
+
+.mochi{
+  width: 75px;
+  margin-left: 150px;
+}
+
+
+span{
+  border-bottom: 10px solid #ccc;
+  display: block;
+}
+
+span.vertical1{
+  border-left: 6px solid #ccc;
+  display: block;
+
+  height: 1365px;
+  position: absolute;
+  left:200px;
+
+}
+
+
+span.vertical2{
+  border-left: 6px solid #ccc;
+  display: block;
+
+  height: 1930px;
+  position: absolute;
+  left:200px;
+
+}
+
+span.vertical3{
+  border-left: 6px solid #ccc;
+  display: block;
+
+  height: 620px;
+  position: absolute;
+  left:200px;
+
+}
+
+span.vertical4{
+  border-left: 6px solid #ccc;
+  display: block;
+
+  height: 1860px;
+  position: absolute;
+  left:200px;
+
+}
+
+span.vertical5{
+  border-left: 6px solid #ccc;
+  display: block;
+
+  height: 868px;
+  position: absolute;
+  left:200px;
+
+}
+
+img.Hoang{
+  height:450px;
+  margin-left:30%;
+  margin-top: 10px;
+}
+
+p.Hoang{
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+
+
+
+}
+
+
+img.Hao{
+  height:450px;
+  margin-left:30%;
+  margin-top: 10px;
+}
+
+
+img.AIpic{
+  height:300px;
+  margin-left:31%;
+  margin-top: 10px;
+}
+
+img.homepic{
+  height:300px;
+  margin-left:28%;
+  margin-top: 10px;
+}
+
+img.patientpic{
+  height:300px;
+  margin-left:39%;
+  margin-top: 10px;
+}
+
+
+p.Hao{
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+img.company{
+  height:300px;
+  width: auto;
+  margin-left:31%;
+  margin-top: 10px;
+}

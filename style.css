@@ -1,0 +1,221 @@
+* {
+  box-sizing: border-box;
+  margin: auto;
+}
+
+ 
+
+header{
+
+  padding: 5px;
+  text-align: center;
+  font-size: 10px;
+  color: white;
+  margin-top:0px;
+  background: #E7CFC8;
+
+
+}
+
+
+
+body {
+  background:url("background.jpg");
+
+
+}
+
+footer{
+  padding: 50px;
+  text-align: center;
+  font-size: 10px;
+  color: white;
+  margin-bottom: 0px;
+  background: #E7CFC8;
+  height: auto;
+
+}
+
+article.firstpara{
+  text-align: left;
+}
+
+nav {
+  height: 100%;
+  width: 200px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color:#BFD8D2;
+  overflow-x: hidden;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+ul.first{
+  list-style-type: none;
+  list-style-position:inside;
+  margin-left: -15px
+
+
+
+}
+
+article {
+  margin-left: 200px;
+  padding-left: 20px;
+
+}
+
+
+article.secondpara{
+  background-color:#F1E0B0
+}
+
+.container {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 50px
+ }
+
+
+/* TeamProfile */
+h1.studentnumber{
+  color:black;
+
+
+}
+h1.TeamProfile{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p.p1{
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+p.p2{
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+
+
+p.PI{
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+
+/* ProjectIdeas*/
+
+h1.ProjectIdeas{
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h2.ProjectIdeas{
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h3.ProjectIdeas{
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h4.ProjectIdeas{
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h5.ProjectIdeas{
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h6.ProjectIdeas{
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1.ProjectIdeas2{
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p.PI{
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/* Feedback */
+h1.FB{
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h2.FB{
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h3.FB{
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h4.FB{
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p.FB{
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+/*IT Tech  */
+h1.ITTech{
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+li.ITTech{
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 20px;
+}
+
+
+p.ITTech{
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+/*IT Work  */
+
+h1.IW{
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+p.IW{
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
